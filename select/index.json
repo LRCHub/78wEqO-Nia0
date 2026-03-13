@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "winning the soul",
   "base_artist": "トウカイテイオー (CV. Machico)",
-  "createdAt": "2025-12-30T04:47:40.635728Z",
+  "createdAt": "2026-03-13T09:31:04.610971Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -51,6 +51,22 @@
       "artist": "スペシャルウィーク(CV.和氣あず未)",
       "has_synced": false,
       "path": "select/06_winning_the_soul_(Game_Size)_スペシャルウィーク(CV.和氣あず未).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "winning the soul (TV Size)",
+      "artist": "トウカイテイオー (CV.Machico)",
+      "has_synced": false,
+      "path": "select/07_winning_the_soul_(TV_Size)_トウカイテイオー_(CV.Machico).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "winning the soul(TV Size)",
+      "artist": "トウカイテイオー(CV.Machico)",
+      "has_synced": false,
+      "path": "select/08_winning_the_soul(TV_Size)_トウカイテイオー(CV.Machico).txt"
     },
     {
       "id": "petitlyrics_1",
